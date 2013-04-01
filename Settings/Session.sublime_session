@@ -1,0 +1,680 @@
+{
+	"folder_history":
+	[
+		"/home/batcat/projects/ruby/newkprf",
+		"/home/batcat/projects/ruby/rickrockstar",
+		"/home/batcat/projects/ruby/loco",
+		"/home/batcat/projects/ruby/example"
+	],
+	"last_window_id": 8,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"sub",
+						"subpage"
+					],
+					[
+						"su",
+						"subpages"
+					],
+					[
+						"la",
+						"layout"
+					],
+					[
+						"ph",
+						"photo-slider"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"he",
+						"height"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ip",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_menu.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/pages/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/application.html.erb",
+				"/home/batcat/projects/ruby/newkprf/Gemfile",
+				"/home/batcat/projects/ruby/newkprf/config/application.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130326091416_add_slug_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130315104451_add_slug_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130326085449_remove_slug_en_from_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/admin_user.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/members/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/members.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/members/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/members.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/application.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/members/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/posts.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/member.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/post.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/javascripts/application.js",
+				"/home/batcat/projects/ruby/newkprf/config/initializers/active_admin.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/javascripts/posts.js.coffee",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/uploaders/image_uploader.rb",
+				"/home/batcat/projects/ruby/example/config/routes.rb",
+				"/home/batcat/projects/ruby/example/app/views/posts/crop.html.erb",
+				"/home/batcat/projects/ruby/example/app/assets/javascripts/application.js",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/show.html.erb",
+				"/home/batcat/projects/ruby/newkprf/config/routes.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/show.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/test/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/pages_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/test_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/menu.css",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_subpages.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_menunav.html.erb",
+				"/home/batcat/projects/ruby/newkprf/config/initializers/navigasmic.rb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/dashboard.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/page.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130315111814_add_slugru_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/posts/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/posts_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/scaffolds.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/application.html1.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_photoslider.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/slidorion.css",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_video.html.erb",
+				"/home/batcat/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_slider.html.erb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130308105705_add_image_to.rb",
+				"/home/batcat/projects/ruby/newkprf/config/database.yml",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/_form.html.erb",
+				"/etc/mysql/my.cnf",
+				"/home/batcat/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/batcat/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/batcat/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/batcat/projects/ruby/newkprf"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"noConflict",
+					"post",
+					"mysqld",
+					"default"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"page"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"pash",
+						"app/views/pages/show.html.erb"
+					],
+					[
+						"_men",
+						"app/views/layouts/_menu.html.erb"
+					],
+					[
+						"appht",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pa/",
+						"app/views/pages/_form.html.erb"
+					],
+					[
+						"aplht",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"poc",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"pac",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"page",
+						"app/models/page.rb"
+					],
+					[
+						"_me",
+						"app/views/layouts/_menu.html.erb"
+					],
+					[
+						"sli",
+						"app/assets/stylesheets/slidorion.css"
+					],
+					[
+						"boo",
+						"app/assets/stylesheets/bootstrap_and_overrides.css.scss"
+					],
+					[
+						"apcs",
+						"app/assets/stylesheets/application.css.scss"
+					],
+					[
+						"ap",
+						"app/views/layouts/application1.html.erb"
+					],
+					[
+						"appjs",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"_sl",
+						"app/views/layouts/_slider.html.erb"
+					],
+					[
+						"app",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"mig",
+						"db/migrate/20130308105705_add_image_to.rb"
+					],
+					[
+						"db",
+						"config/database.yml"
+					],
+					[
+						"fo",
+						"app/views/posts/_form.html.erb"
+					],
+					[
+						"pc",
+						"app/controllers/posts_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 274.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"la",
+						"layouts"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"margin",
+						"margin-left"
+					],
+					[
+						"gr",
+						"group"
+					],
+					[
+						"sub",
+						"subpage"
+					],
+					[
+						"su",
+						"subpages"
+					],
+					[
+						"ph",
+						"photo-slider"
+					],
+					[
+						"he",
+						"height"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ip",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/members.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/members/show.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/bootstrap_and_overrides.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/application.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/posts_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_menu.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/menu.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_logo.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_video.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/pages/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/Gemfile",
+				"/home/batcat/projects/ruby/newkprf/config/application.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130326091416_add_slug_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130315104451_add_slug_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130326085449_remove_slug_en_from_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/admin_user.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/members/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/members.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/members/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/application.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/members/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/posts.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/member.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/post.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/javascripts/application.js",
+				"/home/batcat/projects/ruby/newkprf/config/initializers/active_admin.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/javascripts/posts.js.coffee",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/index.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/uploaders/image_uploader.rb",
+				"/home/batcat/projects/ruby/example/config/routes.rb",
+				"/home/batcat/projects/ruby/example/app/views/posts/crop.html.erb",
+				"/home/batcat/projects/ruby/example/app/assets/javascripts/application.js",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/show.html.erb",
+				"/home/batcat/projects/ruby/newkprf/config/routes.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/show.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/test/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/pages_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/controllers/test_controller.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/test.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/menu.css",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_subpages.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_menunav.html.erb",
+				"/home/batcat/projects/ruby/newkprf/config/initializers/navigasmic.rb",
+				"/home/batcat/projects/ruby/newkprf/app/admin/dashboard.rb",
+				"/home/batcat/projects/ruby/newkprf/app/models/page.rb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130315111814_add_slugru_to_pages.rb",
+				"/home/batcat/projects/ruby/newkprf/app/views/admin/posts/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/pages/_form.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/scaffolds.css.scss",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/application.html1.erb",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_photoslider.html.erb",
+				"/home/batcat/projects/ruby/newkprf/app/assets/stylesheets/slidorion.css",
+				"/home/batcat/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/batcat/projects/ruby/newkprf/app/views/layouts/_slider.html.erb",
+				"/home/batcat/projects/ruby/newkprf/db/migrate/20130308105705_add_image_to.rb",
+				"/home/batcat/projects/ruby/newkprf/config/database.yml",
+				"/home/batcat/projects/ruby/newkprf/app/views/posts/_form.html.erb",
+				"/etc/mysql/my.cnf",
+				"/home/batcat/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/batcat/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/batcat/.config/sublime-text-2/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/batcat/projects/ruby/newkprf"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"noConflict",
+					"post",
+					"mysqld",
+					"default"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"page"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/batcat/projects/ruby/newkprf"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,190,86,830,566,1280,960",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"pash",
+						"app/views/pages/show.html.erb"
+					],
+					[
+						"_men",
+						"app/views/layouts/_menu.html.erb"
+					],
+					[
+						"appht",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"pa/",
+						"app/views/pages/_form.html.erb"
+					],
+					[
+						"aplht",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"poc",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"pac",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"page",
+						"app/models/page.rb"
+					],
+					[
+						"_me",
+						"app/views/layouts/_menu.html.erb"
+					],
+					[
+						"sli",
+						"app/assets/stylesheets/slidorion.css"
+					],
+					[
+						"boo",
+						"app/assets/stylesheets/bootstrap_and_overrides.css.scss"
+					],
+					[
+						"apcs",
+						"app/assets/stylesheets/application.css.scss"
+					],
+					[
+						"ap",
+						"app/views/layouts/application1.html.erb"
+					],
+					[
+						"appjs",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"_sl",
+						"app/views/layouts/_slider.html.erb"
+					],
+					[
+						"app",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"mig",
+						"db/migrate/20130308105705_add_image_to.rb"
+					],
+					[
+						"db",
+						"config/database.yml"
+					],
+					[
+						"fo",
+						"app/views/posts/_form.html.erb"
+					],
+					[
+						"pc",
+						"app/controllers/posts_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 274.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
